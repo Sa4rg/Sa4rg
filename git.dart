@@ -1,5 +1,7 @@
-import 'package:git/git.dart' as git;
+int sara(int a, int b) {
+  return a + b;
+}
 
-void main(List<String> arguments) {
-  print('Hello world: ${git.calculate()}!');
+void main(List<String> args) {
+  print(sara(2, 3));
 }
