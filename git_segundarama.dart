@@ -8,3 +8,5 @@ void main(List<String> args) {
 
 void aa() => print("aa");
 void bb() => print("bb");
+
+void dd() => print("dd");
