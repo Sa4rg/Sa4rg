@@ -10,3 +10,5 @@ void aa() => print("aa");
 void bb() => print("bb");
 
 void dd() => print("dd");
+
+void hh() => print("hh");
