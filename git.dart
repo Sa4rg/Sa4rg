@@ -13,3 +13,5 @@ void main(List<String> args) {
 
   print("cc");
 }
+
+void ff() => print("ff");
