@@ -7,4 +7,6 @@ void main(List<String> args) {
   print("a");
   print("b");
   print("c");
+
+  print("d");
 }
