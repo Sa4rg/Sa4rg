@@ -1,10 +1,10 @@
 # 👋 Hola, soy Sara
 
-Full-Stack Developer especializado en Node.js y React.
+Full-Stack Developer com experiencia en Node.js y React.
 
 ## 🚀 Proyecto Destacado
 
-**[E-commerce PrimeBuy](link-al-repo)** - Plataforma completa con:
+**[E-commerce PrimeBuy](https://primebuyinc.com/)** - Plataforma y flujos completos con:
 - ✅ 301 tests automatizados
 - ✅ CI/CD con GitHub Actions
 - ✅ Clean Architecture + TDD
@@ -19,4 +19,4 @@ Testing: Vitest, Supertest
 
 ## 📫 Contacto
 
-www.linkedin.com/in/sara-arguello-860975403 | [[Portfolio](link)](https://saraarguello-me.vercel.app/) | sa30811670@gmail.com
+www.linkedin.com/in/sara-arguello-860975403 | (https://saraarguello-me.vercel.app/) | sa30811670@gmail.com
