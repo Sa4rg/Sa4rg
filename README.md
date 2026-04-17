@@ -2,7 +2,9 @@
 
 **Full-Stack Developer** Experience in Backend and Frontend workflows, solutions and work with AI skills 💡
 
-Building production-ready applications with clean architecture, comprehensive testing, and modern DevOps practices.
+Production-grade Software Developer focused in Clean Architecture, TDD, and modern engineering standards. Expert in delivering end-to-end systems—from requirements to deployment—with a relentless focus on maintainability, security, and automated quality control.
+
+I leverage AI as an intelligent pair-programming collaborator while maintaining full sovereignty over architectural decisions and business logic. My approach combines cutting-edge AI assistance with rigorous fundamentals: AI suggests; I decide, validate, and lead.
 
 🌐 **Portfolio:** [saraarguello-me.vercel.app](https://saraarguello-me.vercel.app)
 
